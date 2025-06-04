@@ -1,0 +1,6 @@
+{
+  "name": "Chatbot Personalizable con Gemini",
+  "description": "Un chatbot en español que permite al usuario definir su personalidad y subir una base de conocimiento para mejorar las interacciones. Potenciado por la API de Gemini.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
