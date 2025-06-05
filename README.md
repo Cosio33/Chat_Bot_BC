@@ -87,6 +87,10 @@ cosio33-chat_bot_bc/
 
 ### Personalización Avanzada  
 - **Modelo de IA**: Cambia `gemini-2.5-flash-preview-04-17` en `geminiService.ts` por otro modelo de Gemini.  
-- **Estilos**: Modifica las clases de Tailwind en los componentes para ajustar colores/espaciado.  
+- **Estilos**: Modifica las clases de Tailwind en los componentes para ajustar colores/espaciado.
+
+### Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT. 
 
 
